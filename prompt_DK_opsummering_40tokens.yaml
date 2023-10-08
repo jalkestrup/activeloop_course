@@ -1,0 +1,7 @@
+_type: prompt
+input_variables:
+    ["tekst", "tone"]
+template: 
+    Opsummer følgende tekst og sørg for at svaret er givet i en {tone} tone og max er 40 tokens langt. Teksten er nedenfor {tekst} \n
+
+    
