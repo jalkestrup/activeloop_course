@@ -1,2 +1,5 @@
 *.env
 data/*
+credentials_service_acc.json
+credentials_web.json
+credentials_desktop.json
